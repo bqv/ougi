@@ -1,0 +1,2 @@
+# ougi
+Clojure IRC bot
